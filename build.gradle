@@ -1,5 +1,5 @@
 plugins {
-  //inlude the nodeJS plugin to execute nodejs and npm tasks
+  //inlude the nodeJS plugin to execute nodejs and npm tasks for the project
   id "com.moowork.node" version "1.2.0"
 }
 
